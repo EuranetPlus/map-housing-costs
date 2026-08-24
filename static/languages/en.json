@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
+  "title": "How much do we spend on housing?",
   "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Data for Lithuania is provisional.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of disposable income",
   "tooltipExtraInfoLabel": "Click here"
 }
