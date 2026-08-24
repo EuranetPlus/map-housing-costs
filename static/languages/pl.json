@@ -1,12 +1,12 @@
 {
   "title": "Ile wydajemy na mieszkania?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "subtitle": "W 2025 r. mieszkańcy UE przeznaczali na mieszkanie 18,9% swojego dochodu rozporządzalnego, podczas gdy w 2024 r. było to 19,2%.",
   "textNoteDescription": "Notatka",
   "textNote": "Dane dla Litwy są tymczasowe.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "dochodu rozporządzalnego",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "dochodu rozporządzalnego"
 }

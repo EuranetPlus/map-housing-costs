@@ -1,12 +1,12 @@
 {
   "title": "Kiek išleidžiame būstui?",
-  "subtitle": "Prognozuojama, kad šių šalių užimtumo augimas 2022–2035 m. sieks 5,6 %.",
+  "subtitle": "2025 m. ES gyventojai būstui išleido 18,9 % savo disponuojamųjų pajamų, palyginti su 19,2 % 2024 m.",
   "textNoteDescription": "Pastaba",
   "textNote": "Lietuvos duomenys yra preliminarūs.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "disponuojamųjų pajamų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "disponuojamųjų pajamų"
 }

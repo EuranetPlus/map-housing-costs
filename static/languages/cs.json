@@ -1,12 +1,12 @@
 {
   "title": "Kolik utrácíme za bydlení?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022–2035 se odhaduje na 5,6 %.",
+  "subtitle": "V roce 2025 utratili lidé v EU za bydlení 18,9 % svého disponibilního příjmu, což je pokles oproti 19,2 % v roce 2024.",
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje pro Litvu jsou předběžné.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
   "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "disponibilního příjmu",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "disponibilního příjmu"
 }

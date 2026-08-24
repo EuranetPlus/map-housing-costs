@@ -1,12 +1,12 @@
 {
   "title": "Cé mhéad a chaithimid ar thithíocht?",
-  "subtitle": "Meastar go mbeidh fás fostaíochta amach anseo sna tíortha seo idir 2022 agus 2035 ag 5.6%.",
+  "subtitle": "Sa bhliain 2025, chaith daoine san AE 18.9% dá n-ioncam indiúscartha ar thithíocht, síos ó 19.2% sa bhliain 2024.",
   "textNoteDescription": "Nóta",
   "textNote": "Is sonraí sealadacha iad na sonraí don Liotuáin.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "den ioncam indiúscartha",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "den ioncam indiúscartha"
 }

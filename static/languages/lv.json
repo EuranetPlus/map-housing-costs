@@ -1,12 +1,12 @@
 {
   "title": "Cik daudz mēs tērējam mājoklim?",
-  "subtitle": "Tiek lēsts, ka nodarbinātības pieaugums šajās valstīs 2022.–2035. gadā būs 5,6 %.",
+  "subtitle": "2025. gadā ES iedzīvotāji mājoklim tērēja 18,9 % no saviem rīcībā esošajiem ienākumiem, kas ir samazinājums salīdzinājumā ar 19,2 % 2024. gadā.",
   "textNoteDescription": "Piezīme",
   "textNote": "Dati par Lietuvu ir provizoriski.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "no rīcībā esošajiem ienākumiem",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "no rīcībā esošajiem ienākumiem"
 }

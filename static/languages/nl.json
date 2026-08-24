@@ -1,12 +1,12 @@
 {
   "title": "Hoeveel geven we uit aan huisvesting?",
-  "subtitle": "De verwachte werkgelegenheidsgroei in deze landen tussen 2022 en 2035 bedraagt 5,6%.",
+  "subtitle": "In 2025 besteedden mensen in de EU 18,9% van hun besteedbaar inkomen aan huisvesting, een daling ten opzichte van 19,2% in 2024.",
   "textNoteDescription": "Opmerking",
   "textNote": "De gegevens voor Litouwen zijn voorlopig.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "van het beschikbare inkomen",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "van het beschikbare inkomen"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Wie viel geben wir für Wohnraum aus?",
-  "subtitle": "Das zukünftige Beschäftigungswachstum in diesen Ländern wird für den Zeitraum 2022-2035 auf 5,6 % geschätzt.",
+  "subtitle": "Im Jahr 2025 gaben die Menschen in der EU 18,9 % ihres verfügbaren Einkommens für Wohnen aus, im Vergleich zu 19,2 % im Jahr 2024.",
   "textNoteDescription": "Notiz",
   "textNote": "Die Daten für Litauen sind vorläufig.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "des verfügbaren Einkommens",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "des verfügbaren Einkommens"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Koliko denarja porabimo za stanovanje?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v obdobju 2022–2035 je ocenjena na 5,6 %.",
+  "subtitle": "Leta 2025 so ljudje v EU za stanovanja porabili 18,9 % svojega razpoložljivega dohodka, kar je manj kot 19,2 % leta 2024.",
   "textNoteDescription": "Opomba",
   "textNote": "Podatki za Litvo so začasni.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "razpoložljivega dohodka",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "razpoložljivega dohodka"
 }

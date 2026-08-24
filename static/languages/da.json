@@ -1,12 +1,12 @@
 {
   "title": "Hvor mange penge bruger vi på bolig?",
-  "subtitle": "Den fremtidige beskæftigelsesvækst i disse lande i 2022-2035 anslås til 5,6 %.",
+  "subtitle": "I 2025 brugte EU-borgere 18,9 % af deres disponible indkomst på bolig, et fald fra 19,2 % i 2024.",
   "textNoteDescription": "Note",
   "textNote": "Data for Litauen er foreløbige.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af disponibel indkomst",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "af disponibel indkomst"
 }

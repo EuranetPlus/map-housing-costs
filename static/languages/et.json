@@ -1,12 +1,12 @@
 {
   "title": "Kui palju me eluasemele kulutame?",
-  "subtitle": "Nende riikide tulevane tööhõive kasv aastatel 2022–2035 on hinnanguliselt 5,6%.",
+  "subtitle": "2025. aastal kulutasid ELi elanikud eluasemele 18,9% oma käsutuses olevast sissetulekust, mis on vähem kui 2024. aasta 19,2% vastav näitaja.",
   "textNoteDescription": "Märkus",
   "textNote": "Leedu andmed on esialgsed.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "käsutuses olevast sissetulekust",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "käsutuses olevast sissetulekust"
 }

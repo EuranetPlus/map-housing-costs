@@ -1,12 +1,12 @@
 {
   "title": "Cât cheltuim pe locuințe?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "subtitle": "În 2025, cetățenii UE au cheltuit 18,9% din venitul lor disponibil pe locuințe, în scădere de la 19,2% în 2024.",
   "textNoteDescription": "Nota",
   "textNote": "Datele pentru Lituania sunt provizorii.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "din venitul disponibil",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "din venitul disponibil"
 }

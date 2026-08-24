@@ -1,12 +1,12 @@
 {
   "title": "Quanto spendiamo per l'alloggio?",
-  "subtitle": "Si stima che la crescita occupazionale futura in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "subtitle": "Nel 2025, i cittadini dell'UE hanno speso il 18,9% del loro reddito disponibile per l'abitazione, in calo rispetto al 19,2% del 2024.",
   "textNoteDescription": "Nota",
   "textNote": "I dati relativi alla Lituania sono provvisori.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "reddito disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "reddito disponibile"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Hur mycket spenderar vi på bostäder?",
-  "subtitle": "Den framtida sysselsättningstillväxten i dessa länder under 2022–2035 uppskattas till 5,6 %.",
+  "subtitle": "År 2025 spenderade människor i EU 18,9 % av sin disponibla inkomst på bostäder, en minskning från 19,2 % år 2024.",
   "textNoteDescription": "Notera",
   "textNote": "Uppgifterna för Litauen är preliminära.",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av disponibel inkomst",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "av disponibel inkomst"
 }

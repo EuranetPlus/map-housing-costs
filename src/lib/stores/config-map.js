@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How much do we spend on housing?",
-  "subtitle": "On average, people spent 18.9% of their disposable income on housing in EU countries in 2025. Coming down from 19.2% in 2024.",
+  "subtitle": "In 2025, people in the EU spent 18.9% of their disposable income on housing, down from 19.2% in 2024.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,0.172,FALSE,,,,,,,,,\nBelgium,BE,0.176,FALSE,,,,,,,,,\nBulgaria,BG,0.181,FALSE,,,,,,,,,\nCyprus,CY,0.109,FALSE,,,,,,,,,\nCzechia,CZ,0.214,FALSE,,,,,,,,,\nGermany,DE,0.241,FALSE,,,,,,,,,\nDenmark,DK,0.330,FALSE,,,,,,,,,\nEstonia,EE,0.189,FALSE,,,,,,,,,\nGreece,EL,0.346,FALSE,,,,,,,,,\nSpain,ES,0.160,FALSE,,,,,,,,,\nFinland,FI,0.211,FALSE,,,,,,,,,\nFrance,FR,0.185,FALSE,,,,,,,,,\nCroatia,HR,0.115,FALSE,,,,,,,,,\nItaly,IT,0.141,FALSE,,,,,,,,,\nLithuania,LT,0.153,FALSE,,,,,,,,,\nLuxembourg,LU,0.190,FALSE,,,,,,,,,\nLatvia,LV,0.155,FALSE,,,,,,,,,\nMalta,MT,0.126,FALSE,,,,,,,,,\nNetherlands,NL,0.199,FALSE,,,,,,,,,\nPoland,PL,0.158,FALSE,,,,,,,,,\nPortugal,PT,0.163,FALSE,,,,,,,,,\nRomania,RO,0.156,FALSE,,,,,,,,,\nSweden,SE,0.242,FALSE,,,,,,,,,\nSlovenia,SI,0.128,FALSE,,,,,,,,,\nSlovakia,SK,0.159,FALSE,,,,,,,,,\nHungary,HU,0.150,FALSE,,,,,,,,,\nIreland,IE,0.162,FALSE,,,,,,,,,",
   "parsedData": [
@@ -439,12 +440,14 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How much do we spend on housing?",
-    "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+    "subtitle": "In 2025, people in the EU spent 18.9% of their disposable income on housing, down from 19.2% in 2024.",
     "textNoteDescription": "Note",
     "textNote": "Data for Lithuania is provisional.",
     "textSourceDescription": "Source",
     "textSource": "Eurostat",
-    "linkDataAccessDescription": "Access the data"
+    "linkDataAccessDescription": "Access the data",
+    "legend1": "No data available",
+    "tooltipExtraInfoLabel": "Click here"
   },
   "clusters": [],
   "colorScale": null

@@ -1,12 +1,12 @@
 {
   "title": "Paljonko käytämme rahaa asumiseen?",
-  "subtitle": "Työllisyyden kasvun näissä maissa vuosina 2022–2035 arvioidaan olevan 5,6 prosenttia.",
+  "subtitle": "Vuonna 2025 EU:n asukkaat käyttivät 18,9 % käytettävissä olevista tuloistaan asumiseen, kun vuonna 2024 vastaava luku oli 19,2 %.",
   "textNoteDescription": "Huomautus",
   "textNote": "Liettuan tiedot ovat alustavia.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "käytettävissä olevista tuloista",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "käytettävissä olevista tuloista"
 }

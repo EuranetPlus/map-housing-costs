@@ -1,12 +1,12 @@
 {
   "title": "Koliko trošimo na stanovanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022.-2035. procjenjuje se na 5,6%.",
+  "subtitle": "U 2025. godini ljudi u EU potrošili su 18,9% svog raspoloživog dohotka na stanovanje, što je pad u odnosu na 19,2% u 2024. godini.",
   "textNoteDescription": "Bilješka",
   "textNote": "Podaci za Litvu su privremeni.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "raspoloživog dohotka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "raspoloživog dohotka"
 }

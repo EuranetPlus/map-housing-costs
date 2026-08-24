@@ -1,12 +1,12 @@
 {
   "title": "Combien dépensons-nous pour le logement ?",
-  "subtitle": "La croissance future de l'emploi dans ces pays entre 2022 et 2035 est estimée à 5,6 %.",
+  "subtitle": "En 2025, les citoyens de l'UE ont consacré 18,9 % de leur revenu disponible au logement, contre 19,2 % en 2024.",
   "textNoteDescription": "Note",
   "textNote": "Les données concernant la Lituanie sont provisoires.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "de revenu disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "de revenu disponible"
 }

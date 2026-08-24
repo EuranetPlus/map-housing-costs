@@ -1,12 +1,12 @@
 {
   "title": "Quanto gastamos com moradia?",
-  "subtitle": "Estima-se que o crescimento futuro do emprego nesses países, no período de 2022 a 2035, seja de 5,6%.",
+  "subtitle": "Em 2025, as pessoas na UE gastaram 18,9% de sua renda disponível em habitação, uma queda em relação aos 19,2% registrados em 2024.",
   "textNoteDescription": "Observação",
   "textNote": "Os dados referentes à Lituânia são provisórios.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Acesse os dados",
   "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "de renda disponível",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "de renda disponível"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Koľko míňame na bývanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022 – 2035 sa odhaduje na 5,6 %.",
+  "subtitle": "V roku 2025 ľudia v EÚ minuli na bývanie 18,9 % svojho disponibilného príjmu, čo je pokles oproti 19,2 % v roku 2024.",
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje za Litvu sú predbežné.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "disponibilného príjmu",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "disponibilného príjmu"
 }

@@ -1,12 +1,12 @@
 {
   "title": "How much do we spend on housing?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "subtitle": "In 2025, people in the EU spent 18.9% of their disposable income on housing, down from 19.2% in 2024.",
   "textNoteDescription": "Note",
   "textNote": "Data for Lithuania is provisional.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "of disposable income",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of disposable income"
 }
